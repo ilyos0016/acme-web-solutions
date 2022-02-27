@@ -31,12 +31,14 @@
         margin-bottom: 10px;
     }
     .main-h__text-box{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
 
     }
     .main-h__text {
         font-size: 12px;
-        float: left;
-        width: 40%;
+        width: 80%;
         margin: 5px 0 7px 0;
     }
     .main-m{
