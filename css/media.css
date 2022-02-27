@@ -48,8 +48,8 @@
         height: 100px;
     }
     .main-__wrapper {
-        width: 130px;
-        height: 100px;
+        width: 70%;
+        /* height: 100px; */
     }
     .wrapper-title {
         font-size:0.7rem;
@@ -130,8 +130,8 @@
         height: 200px;
     }
     .main-__wrapper {
-        width: 200px;
-        height: 150px;
+        width: 70%;
+        /* height: 150px; */
     }
     
     .wrapper-title {
