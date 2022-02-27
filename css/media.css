@@ -36,6 +36,7 @@
         width: 100%;
 
     }
+    
     .main-h__text {
         font-size: 15px;
         width: 90%;
@@ -44,6 +45,10 @@
     .main-m{
         padding: 1.5rem 0;
     }
+    .main-m__item{
+        margin-bottom: 15px;
+    }
+
     .main-m__img{
         margin: 0 auto;
         width:90%;
