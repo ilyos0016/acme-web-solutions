@@ -57,8 +57,9 @@
         margin: 0.31rem; 
     }
     .wrapper-text{
-        text-align: center;
+        padding: auto;
         width: 90%;
+        font-size: 10px;
     }
     .main-c__title {
         margin: 10px 0;
@@ -146,7 +147,9 @@
         margin: 0.425rem;  
     }
     .wrapper-text {
+        padding: auto;
         width: 70%;
+        font-size: 15px;
     }
     .main-c__title {
         margin: 15px 0;
