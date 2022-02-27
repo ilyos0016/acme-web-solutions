@@ -11,9 +11,10 @@
 
     }
     .header__title {
-        font-size: 16px;
+        font-size: 24px;
     }
     .header__text{
+        padding: 20px 0;
         font-size: 10px;
         margin: 5px 0 7px 0;
     }
