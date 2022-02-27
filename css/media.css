@@ -27,7 +27,7 @@
         padding: 10px 0;
     }
     .main-h__title {
-        font-size: 0.81rem;
+        font-size:1.2rem;
         margin-bottom: 10px;
     }
     .main-h__text-box{
@@ -37,8 +37,8 @@
 
     }
     .main-h__text {
-        font-size: 12px;
-        width: 80%;
+        font-size: 15px;
+        width: 90%;
         margin: 5px 0 7px 0;
     }
     .main-m{
