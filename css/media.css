@@ -37,8 +37,8 @@
         padding: 1.5rem 0;
     }
     .main-m__img{
-        width: 150px;
-        height: 100px;
+        width: 200px;
+        height: 150px;
     }
     .m__container{
         flex-direction: column;
@@ -54,6 +54,9 @@
     .wrapper-title {
         font-size:0.7rem;
         margin: 0.31rem; 
+    }
+    .wrapper-text{
+        width: 70%;
     }
     .main-c__title {
         margin: 10px 0;
@@ -123,20 +126,20 @@
         padding: 2.8rem 0;
     }
     .main-m__img{
-        width: 200px;
-        height: 150px;
+        width: 250px;
+        height: 200px;
     }
     .main-__wrapper {
         width: 200px;
         height: 150px;
     }
-    .main-__wrapper {
-        width: 200px;
-        height: 150px;
-    }
+    
     .wrapper-title {
         font-size:1rem;
         margin: 0.425rem;  
+    }
+    .wrapper-text {
+        width: 70%;
     }
     .main-c__title {
         margin: 15px 0;
