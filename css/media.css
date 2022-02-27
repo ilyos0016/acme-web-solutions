@@ -37,7 +37,7 @@
         padding: 1.5rem 0;
     }
     .main-m__img{
-        width: 200px;
+        width:90%;
         height: 150px;
     }
     .m__container{
@@ -126,7 +126,7 @@
         padding: 2.8rem 0;
     }
     .main-m__img{
-        width: 250px;
+        width: 90%;
         height: 200px;
     }
     .main-__wrapper {
