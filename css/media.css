@@ -50,13 +50,14 @@
     }
     .main-__wrapper {
         width: 90%;
-        /* height: 100px; */
+        height: 140px;
     }
     .wrapper-title {
         font-size:0.7rem;
         margin: 0.31rem; 
     }
     .wrapper-text{
+        text-align: center;
         width: 90%;
     }
     .main-c__title {
@@ -133,7 +134,7 @@
     }
     .main-__wrapper {
         width: 70%;
-        /* height: 150px; */
+        height: 180px;
     }
     
     .wrapper-title {
