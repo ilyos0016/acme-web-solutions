@@ -37,6 +37,7 @@
         padding: 1.5rem 0;
     }
     .main-m__img{
+        text-align: center;
         width:90%;
         /* height: 150px; */
     }
@@ -126,8 +127,9 @@
         padding: 2.8rem 0;
     }
     .main-m__img{
+        text-align: center;
         width: 90%;
-        height: 200px;
+        /* height: 200px; */
     }
     .main-__wrapper {
         width: 70%;
