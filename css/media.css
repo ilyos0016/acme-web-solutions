@@ -30,7 +30,12 @@
         font-size: 0.81rem;
         margin-bottom: 10px;
     }
+    .main-h__text-box{
+
+    }
     .main-h__text {
+        float: left;
+        width: 40%;
         margin: 5px 0 7px 0;
     }
     .main-m{
