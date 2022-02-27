@@ -50,16 +50,20 @@
     }
     .main-__wrapper {
         width: 90%;
-        height: 140px;
+        height: 160px;
     }
     .wrapper-title {
         font-size:1.5rem;
         margin: 0.31rem; 
     }
+    .wrapper-text:not(:last-child){
+        margin-bottom: 15px;
+    }
     .wrapper-text{
         padding: auto;
         width: 90%;
         font-size: 18px;
+        
     }
     .main-c__title {
         margin: 10px 0;
