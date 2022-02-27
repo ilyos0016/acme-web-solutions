@@ -127,6 +127,9 @@
     .main-m{
         padding: 2.8rem 0;
     }
+    .main-m__item:not(:last-child){
+        margin-bottom: 15px;
+    }
     .main-m__img{
         margin: 0 auto;
         width: 90%;
