@@ -40,6 +40,9 @@
         width: 150px;
         height: 100px;
     }
+    .m__container{
+        flex-direction: column;
+    }
     .main-__wrapper {
         width: 150px;
         height: 100px;
