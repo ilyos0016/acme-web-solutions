@@ -34,7 +34,10 @@
     .main-m__img{
         width: 150px;
         height: 100px;
-
+    }
+    .main-__wrapper {
+        width: 150px;
+        height: 100px;
     }
     .main-__wrapper {
         width: 130px;
@@ -105,6 +108,14 @@
     }
     .main-m{
         padding: 2.8rem 0;
+    }
+    .main-m__img{
+        width: 200px;
+        height: 150px;
+    }
+    .main-__wrapper {
+        width: 200px;
+        height: 150px;
     }
     .main-__wrapper {
         width: 200px;
