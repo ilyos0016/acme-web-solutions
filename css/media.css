@@ -20,8 +20,8 @@
     .header__btn{
         margin: 5px;
         padding: 7px 22px;
+        border-radius: 5px;        
         box-shadow: 0 0 10px #eee;
-        border-radius: 5px;
     }
     .main-h__container {
         padding: 10px 0;
@@ -38,7 +38,7 @@
     }
     .main-m__img{
         width:90%;
-        height: 150px;
+        /* height: 150px; */
     }
     .m__container{
         flex-direction: column;
