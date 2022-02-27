@@ -1,4 +1,9 @@
 @media (max-width:767px){
+    body{
+        line-height: 0.7px;
+        letter-spacing: 0.5px;
+
+    }
     .header {
         
         background-image: url(../photos/bgc-mobile.jpg);
@@ -83,6 +88,11 @@
     }
 
 @media (min-width:768px) and (max-width:1024px){
+    body{
+        line-height: 1px;
+        letter-spacing: 0.7px;
+
+    }
     .header__title {
         font-size: 32px;
     }

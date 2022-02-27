@@ -10,7 +10,7 @@ html{
 body{
     height: 100%;
     font-family: 'Dancing Script', cursive;
-    line-height: 1.5;
+    line-height: 1.5px;
     letter-spacing: 1px;
     color: #222;
     text-align: center;
@@ -141,7 +141,6 @@ body{
 .wrapper-text {
     font-family: 'Work Sans', sans-serif;
     color:#d3c6c6;
-    
 }
 /* main-c */
 .main-c {
