@@ -41,7 +41,7 @@ body{
     font-size: 48px;
 }
 .header__text {
-    font-style: 36px;
+    font-size: 36px;
     margin: 10px 0 15px 0; 
     font-family: 'Lobster', cursive;
 }
@@ -68,6 +68,7 @@ body{
     color: #fff;
     text-decoration: none;
 }
+
 /* main-h */
 
 .main-h {
